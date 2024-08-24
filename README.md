@@ -17,22 +17,19 @@ En la actualidad, la computación en la nube se ha convertido en una tecnología
   </samp>
   <br>
 </p>
+<br>
+<h2 align="center">📚 Contenido ✨ </h2>
 
+<br>
 
-
-
-
-
-
-
-### ⚡ Relevant achievements
-- Awarded 1st place on Code First Girl's Web Dev course
-- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
-- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
-
-### ✔️ I'm currently learning
-- JavaScript
-- ReactJS
+- #1)- Conceptos de Clúster, Grid Computing, Middleware, y la aplicación en el desarrollo de soluciones informáticas en la nube.
+- #2)- Selección de plataforma en la nube (como AWS, Azure, o Google Cloud).
+- #3)- Diseño de arquitectura backend aprovechando la virtualización en la nube para optimizar eficiencia y sostenibilidad.
+- #4)- Desarrollo e implementación del servidor backend en la nube utilizando los servicios virtualizados de la plataforma seleccionada.
+- #5)- Configuración y utilización de middleware en el backend para gestionar la comunicación entre componentes y servicios.
+- #6)- Despliegue del backend en la nube, asegurando su correcta configuración para soportar la carga y las operaciones planificadas.
+- #7)- Creación de README que tenga descripción de arquitectura,pasos de despliegue y consideraciones sobre virtualización y middleware.
+- #8)- Envío del documento técnico dentro del plazo establecido.
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
