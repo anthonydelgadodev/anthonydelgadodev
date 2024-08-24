@@ -1,7 +1,6 @@
 ## Anthony Javier Barbosa Delgado 🎓💻    Cloud Computing 🏠 Grupo B191 👽
 <br>
 <h2 align="center">💻 Desarrollo de backend web ☁️ con servicios en la nube 🚀</h2>
-
 <p align="center">
 En la actualidad, la computación en la nube se ha convertido en una tecnología fundamental para el desarrollo de soluciones informáticas eficientes y escalables. Este trabajo se centra en el diseño y desarrollo de una aplicación web sencilla, desplegada y gestionada en un entorno de Cloud Computing, como parte del curso de Cloud Computing del semestre 2024-II. </p>
 
