@@ -29,6 +29,21 @@ En la actualidad, la computación en la nube se ha convertido en una tecnología
 - #6)- Despliegue del backend en la nube, asegurando su correcta configuración para soportar la carga y las operaciones planificadas.
 - #7)- Creación de README que tenga descripción de arquitectura,pasos de despliegue y consideraciones sobre virtualización y middleware.
 - #8)- Envío del documento técnico dentro del plazo establecido.
+<br>
+<p><strong style="color:red;">Clúster</strong> es un conjunto de computadoras o servidores que trabajan juntos como si fueran un único sistema. Estos servidores están conectados y coordinados para mejorar el rendimiento, la disponibilidad y la escalabilidad. En un <strong style="color:red;">clúster</strong>, las tareas se dividen entre varias máquinas, lo que permite procesar grandes volúmenes de datos de manera más eficiente y reducir el tiempo de inactividad.</p>
+<br>
+<p><strong style="color:red;">Grid Computing</strong> es un modelo de computación distribuida que permite el uso compartido de recursos de múltiples computadoras ubicadas en diferentes ubicaciones para resolver problemas complejos. A diferencia de los <strong style="color:red;">clústeres</strong>, que suelen estar en un solo lugar, el <strong style="color:red;">grid computing</strong> conecta sistemas dispersos geográficamente, creando una supercomputadora virtual capaz de realizar tareas de alto rendimiento.</p>
+<br>
+<p><strong style="color:red;">Middleware</strong> es un software que actúa como intermediario entre diferentes aplicaciones o componentes dentro de un sistema distribuido. Facilita la comunicación y la gestión de datos entre las aplicaciones, permitiendo que interactúen de manera eficiente y transparente. El <strong style="color:red;">middleware</strong> es esencial en arquitecturas complejas, como las que se utilizan en la nube, donde diferentes servicios y aplicaciones necesitan integrarse sin problemas.</p>
+<br>
+<p><strong style="color:red;">Clúster</strong>, <strong style="color:red;">Grid Computing</strong> y <strong style="color:red;">Middleware</strong> son conceptos clave en el desarrollo de soluciones en la nube. Un <strong style="color:red;">clúster</strong> es un conjunto de servidores que trabajan juntos como un solo sistema para mejorar rendimiento y escalabilidad. El <strong style="color:red;">Grid Computing</strong> permite el uso compartido de recursos distribuidos geográficamente, creando una supercomputadora virtual para tareas complejas. El <strong style="color:red;">middleware</strong> actúa como intermediario entre aplicaciones, facilitando la comunicación y la integración en arquitecturas distribuidas.</p>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
+  <br>
+</p>
+
+
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
