@@ -30,6 +30,8 @@ En la actualidad, la computación en la nube se ha convertido en una tecnología
 - #7)- Creación de README que tenga descripción de arquitectura,pasos de despliegue y consideraciones sobre virtualización y middleware.
 - #8)- Envío del documento técnico dentro del plazo establecido.
 <br>
+<h2 align="center">Conceptos de Clúster, Grid Computing, Middleware, y la aplicación en el desarrollo de soluciones informáticas en la nube</h2>
+<br>
 <p><strong style="color:red;">Clúster</strong> es un conjunto de computadoras o servidores que trabajan juntos como si fueran un único sistema. Estos servidores están conectados y coordinados para mejorar el rendimiento, la disponibilidad y la escalabilidad. En un <strong style="color:red;">clúster</strong>, las tareas se dividen entre varias máquinas, lo que permite procesar grandes volúmenes de datos de manera más eficiente y reducir el tiempo de inactividad.</p>
 <br>
 <p><strong style="color:red;">Grid Computing</strong> es un modelo de computación distribuida que permite el uso compartido de recursos de múltiples computadoras ubicadas en diferentes ubicaciones para resolver problemas complejos. A diferencia de los <strong style="color:red;">clústeres</strong>, que suelen estar en un solo lugar, el <strong style="color:red;">grid computing</strong> conecta sistemas dispersos geográficamente, creando una supercomputadora virtual capaz de realizar tareas de alto rendimiento.</p>
@@ -43,6 +45,44 @@ En la actualidad, la computación en la nube se ha convertido en una tecnología
   <br>
 </p>
 <br>
+<h2 align="center">Selección de plataforma en la nube (AWS, Azure, o Google Cloud)</h2>
+<br>
+<p align="center">
+Para un proyecto de desarrollo de backend en la nube que requiere virtualización y servicios robustos, <strong>AWS (Amazon Web Services)</strong> es la mejor opción
+</p>
+
+<p align="center">
+<strong>Amplia Gama de Servicios</strong><br>
+AWS ofrece una extensa variedad de servicios que abarcan computación, almacenamiento, bases de datos, redes, y herramientas de desarrollo, permitiendo construir una infraestructura completa en la nube.
+</p>
+
+<p align="center">
+<strong>Soporte de Virtualización</strong><br>
+AWS tiene un sólido soporte para virtualización a través de sus servicios como EC2 (Elastic Compute Cloud) y ECS (Elastic Container Service). EC2 permite crear instancias virtuales con diferentes configuraciones, mientras que ECS facilita la gestión de contenedores Docker.
+</p>
+
+<p align="center">
+<strong>Escalabilidad</strong><br>
+AWS permite escalar aplicaciones fácilmente según la demanda, lo que es crucial para el desarrollo y despliegue de aplicaciones backend que pueden requerir más recursos en función del tráfico o procesamiento de datos.
+</p>
+
+<p align="center">
+<strong>Seguridad</strong><br>
+AWS proporciona un alto nivel de seguridad con certificaciones internacionales y herramientas de gestión de identidades, cifrado de datos, y cumplimiento normativo, lo cual es fundamental para proteger la infraestructura y los datos de la aplicación.
+</p>
+
+<p align="center">
+<strong>Ecosistema Maduro</strong><br>
+AWS es una plataforma madura y bien soportada, con una gran comunidad de desarrolladores, tutoriales, y recursos, lo que facilita la resolución de problemas y la implementación de soluciones.
+</p>
+
+<p align="center">
+<strong>Integración con Servicios de IA/ML</strong><br>
+AWS también ofrece servicios avanzados como SageMaker para Machine Learning, que puede ser útil si tu proyecto requiere capacidades de inteligencia artificial.
+</p>
+
+
+
 
 
 Anthony Javier Barbosa Delgado - Cloud Computing - Primer corte
